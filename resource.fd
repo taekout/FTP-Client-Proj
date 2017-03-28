@@ -1,0 +1,25 @@
+!MS$FREEFORM
+! Microsoft Developer Studio generated include file.
+! Used by FTP.rc
+!
+      integer, parameter :: IDD_ABOUTBOX                    = 100
+      integer, parameter :: IDD_FTP_FORM                    = 101
+      integer, parameter :: IDD_FTP                         = 101
+      integer, parameter :: IDR_MAINFRAME                   = 128
+      integer, parameter :: IDR_FTPTYPE                     = 129
+      integer, parameter :: IDC_FILELIST_LISTBOX            = 1000
+      integer, parameter :: IDC_ADDRESS_COMBOBOX            = 1001
+      integer, parameter :: IDC_FILE_LIST_STATIC            = 1002
+      integer, parameter :: IDC_ADDRESS_STATIC              = 1003
+      integer, parameter :: IDC_USER_STATIC                 = 1004
+      integer, parameter :: IDC_COMBO2                      = 1006
+      integer, parameter :: IDC_NAME_COMBOBOX               = 1006
+      integer, parameter :: IDC_COMBO4                      = 1008
+      integer, parameter :: IDC_PASSWORD_COMBOBOX           = 1008
+      integer, parameter :: IDC_UPLOAD_BUTTON               = 1009
+      integer, parameter :: IDC_DOWNLOAD_BUTTON             = 1010
+      integer, parameter :: IDC_CONNECT_BUTTON              = 1011
+      integer, parameter :: IDC_LOCALLIST_STATIC            = 1012
+      integer, parameter :: IDC_LIST1                       = 1013
+      integer, parameter :: IDC_LOCALLIST_LISTBOX           = 1013
+      integer, parameter :: IDC_PASSWORD_EDIT               = 1014
